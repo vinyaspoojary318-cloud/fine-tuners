@@ -14,7 +14,7 @@ data is collected.
 
 ## 1. Product vision
 
-GramRoute AI connects three layers:
+GramRoute AI connects three Layers:
 
 1. **Demand** — identifies stranded students, clusters them by village and destination, and
    forecasts near-term demand with a statistical model over synthetic history.
